@@ -19,4 +19,4 @@ jobs:
 
       - uses: jessehouwing/actions-semver-checker@v1
         with:
-          warn-minor-version: false
+          check-minor-version: false
